@@ -1,83 +1,71 @@
 <div align="center">
 
-# 👴 Netos do Velho Barrero
-
-### Programação · Bugs · Zoeira
+# Netos do Velho Barrero
+### Engenharia de Software · Aprendizado Contínuo
 
 <sub>Desde 2026</sub>
 
 <br/>
 
 <img src="https://img.shields.io/badge/status-ativo-brightgreen?style=flat-square" alt="status"/>
-<img src="https://img.shields.io/badge/devs-2-blue?style=flat-square" alt="devs"/>
-<img src="https://img.shields.io/badge/bugs-inevitáveis-critical?style=flat-square" alt="bugs"/>
-<img src="https://img.shields.io/badge/café-obrigatório-6f4e37?style=flat-square" alt="cafe"/>
+<img src="https://img.shields.io/badge/membros-2-blue?style=flat-square" alt="membros"/>
+<img src="https://img.shields.io/badge/stack-C%23%20%7C%20.NET%20%7C%20Python-informational?style=flat-square" alt="stack"/>
 
 </div>
 
 <br/>
 
-<div align="center">
+## Sobre
 
-## 📖 Sobre
+**Netos do Velho Barrero** é uma organização voltada ao desenvolvimento de software, reunindo projetos, estudos e ferramentas construídos por seus membros. O nome é uma homenagem — a persistência de não desistir até o código funcionar corretamente, aliada ao compromisso com boas práticas de engenharia.
 
-</div>
-
-Os **Netos do Velho Barrero** são uma organização de desenvolvedores que herdou do avô a teimosia de não desistir até o código rodar — e o bom humor pra aguentar os bugs no caminho.
-
-Aqui reunimos projetos, experimentos e ferramentas que misturam código sério com uma boa dose de zoeira, porque programar também pode (e deve) ser divertido.
+Somos uma dupla formada durante o **Curso Intensivo da Academia do Programador (2026)**, e usamos este espaço para centralizar repositórios que vão de exercícios de fixação a sistemas mais completos, sempre com foco em código legível, organizado e bem documentado.
 
 <br/>
 
-<div align="center">
-
-## 🚀 Áreas de atuação
-
-</div>
+## Áreas de atuação
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>🔧 Software</h3>
-      <sub>Projetos open source, ferramentas internas e experimentos de código.</sub>
+    <td width="50%" valign="top">
+      <h3>Software</h3>
+      <sub>Sistemas em C#/.NET, ferramentas internas e projetos de estudo aplicado.</sub>
     </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🤖 Hardware</h3>
-      <sub>Automação, IoT e sistemas embarcados.</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>📚 Comunidade</h3>
-      <sub>Aprendizado compartilhado e conteúdo entre a galera.</sub>
+    <td width="50%" valign="top">
+      <h3>Comunidade</h3>
+      <sub>Compartilhamento de conhecimento entre os membros e apoio a quem está aprendendo.</sub>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<div align="center">
-
-## 👥 Time
-
-</div>
+## Time
 
 <table width="100%">
   <tr>
-    <th align="center" width="50%">🧑‍💻 Pedro Henrique</th>
-    <th align="center" width="50%">🧑‍💻 Marco Oliveira</th>
+    <th align="center" width="50%">Pedro Henrique dos Santos</th>
+    <th align="center" width="50%">Marco Oliveira</th>
   </tr>
   <tr>
     <td align="center">
-      <sub>Developer</sub>
+      <sub>Backend Developer — C# / .NET</sub>
       <br/><br/>
       <a href="https://www.linkedin.com/in/pedrohenriqueds-dev/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Pedro Henrique"/>
       </a>
+      <a href="https://github.com/pedrohenriquedsdev">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pedro Henrique"/>
+      </a>
     </td>
     <td align="center">
-      <sub>Developer</sub>
+      <sub>Backend Developer (em formação) — C# / Sistemas de Informação</sub>
       <br/><br/>
       <a href="https://www.linkedin.com/in/marco-antonio-de-oliveira-rodrigues-072136376/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Marco Oliveira"/>
+      </a>
+      <a href="https://github.com/Marco-Oliver">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Marco Oliveira"/>
       </a>
     </td>
   </tr>
@@ -85,61 +73,47 @@ Aqui reunimos projetos, experimentos e ferramentas que misturam código sério c
 
 <br/>
 
-<div align="center">
+## Formação
 
-## 📌 Repositórios
+Ambos os membros integram o **Curso Intensivo da Academia do Programador (2026)**, onde desenvolvemos as bases de programação e boas práticas aplicadas nos projetos desta organização.
 
-Confira todos os nossos projetos na aba **[Repositories](../../repositories)** desta organização.
+<br/>
 
-</div>
+## Repositórios
+
+Todos os projetos ativos e arquivados estão disponíveis na aba **[Repositories](../../repositories)** desta organização.
+
+<br/>
+
+## Como contribuir
+
+1. Faça um *fork* do repositório desejado.
+2. Crie uma branch para sua alteração:
+```bash
+   git checkout -b minha-feature
+```
+3. Faça o commit das suas mudanças, seguindo um padrão claro de mensagem:
+```bash
+   git commit -m "feat: adiciona feature X"
+```
+4. Envie a branch para o repositório remoto:
+```bash
+   git push origin minha-feature
+```
+5. Abra um *Pull Request* descrevendo o que foi feito e por quê.
+
+Antes de contribuir, verifique se já existe uma *issue* relacionada ou abra uma nova para alinhar o escopo da mudança.
+
+<br/>
+
+## Contato
+
+Dúvidas, sugestões ou propostas de colaboração podem ser abertas como *issue* em qualquer um dos repositórios da organização, ou diretamente pelo LinkedIn dos membros listados acima.
 
 <br/>
 
 <div align="center">
 
-## 🛠️ Como contribuir
-
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="40" align="center"><b>1</b></td>
-    <td>Faça um <i>fork</i> do repositório desejado</td>
-  </tr>
-  <tr>
-    <td align="center"><b>2</b></td>
-    <td>Crie uma branch para sua feature — <code>git checkout -b minha-feature</code></td>
-  </tr>
-  <tr>
-    <td align="center"><b>3</b></td>
-    <td>Commit suas mudanças — <code>git commit -m "Adiciona feature X"</code></td>
-  </tr>
-  <tr>
-    <td align="center"><b>4</b></td>
-    <td>Envie para a branch — <code>git push origin minha-feature</code></td>
-  </tr>
-  <tr>
-    <td align="center"><b>5</b></td>
-    <td>Abra um <i>Pull Request</i></td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 📬 Contato
-
-Dúvidas, sugestões ou quer trocar uma ideia? Abra uma **issue** em qualquer um dos nossos repositórios.
-
-</div>
-
-<br/>
-
-<div align="center">
-
----
-
-Feito com ☕, 🐛 e muito 🤣 pelos **Netos do Velho Barrero**
+**Mantido por Netos do Velho Barrero**
 
 </div>
