@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Persist%C3%AAncia+at%C3%A9+o+c%C3%B3digo+funcionar.;C%23+%7C+.NET+%7C+Python;Aprendendo+e+construindo+desde+2026.&font=Fira+Code&center=true&width=520&height=45&color=0A66C2&vCenter=true&size=20&pause=1800"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Persist%C3%AAncia+at%C3%A9+o+c%C3%B3digo+funcionar.;C%23+%7C+.NET;Aprendendo+e+construindo+desde+2026.&font=Fira+Code&center=true&width=520&height=45&color=0A66C2&vCenter=true&size=20&pause=1800"/>
 
 <br/><br/>
 
